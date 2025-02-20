@@ -1,2 +1,2 @@
 # TiendaPizzaOnline
-Protecto interacion persona ordenador tienda de pizzas online
+Proyecto de la asignatura interacion persona ordenador tienda de pizzas online
